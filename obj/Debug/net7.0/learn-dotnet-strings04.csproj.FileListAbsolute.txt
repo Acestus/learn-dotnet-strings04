@@ -1,0 +1,14 @@
+C:\Users\wbalconi\git\learn-dotnet-strings04\obj\Debug\net7.0\learn-dotnet-strings04.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\wbalconi\git\learn-dotnet-strings04\obj\Debug\net7.0\learn-dotnet-strings04.AssemblyInfoInputs.cache
+C:\Users\wbalconi\git\learn-dotnet-strings04\obj\Debug\net7.0\learn-dotnet-strings04.AssemblyInfo.cs
+C:\Users\wbalconi\git\learn-dotnet-strings04\obj\Debug\net7.0\learn-dotnet-strings04.csproj.CoreCompileInputs.cache
+C:\Users\wbalconi\git\learn-dotnet-strings04\bin\Debug\net7.0\learn-dotnet-strings04.exe
+C:\Users\wbalconi\git\learn-dotnet-strings04\bin\Debug\net7.0\learn-dotnet-strings04.deps.json
+C:\Users\wbalconi\git\learn-dotnet-strings04\bin\Debug\net7.0\learn-dotnet-strings04.runtimeconfig.json
+C:\Users\wbalconi\git\learn-dotnet-strings04\bin\Debug\net7.0\learn-dotnet-strings04.dll
+C:\Users\wbalconi\git\learn-dotnet-strings04\bin\Debug\net7.0\learn-dotnet-strings04.pdb
+C:\Users\wbalconi\git\learn-dotnet-strings04\obj\Debug\net7.0\learn-dotnet-strings04.dll
+C:\Users\wbalconi\git\learn-dotnet-strings04\obj\Debug\net7.0\refint\learn-dotnet-strings04.dll
+C:\Users\wbalconi\git\learn-dotnet-strings04\obj\Debug\net7.0\learn-dotnet-strings04.pdb
+C:\Users\wbalconi\git\learn-dotnet-strings04\obj\Debug\net7.0\learn-dotnet-strings04.genruntimeconfig.cache
+C:\Users\wbalconi\git\learn-dotnet-strings04\obj\Debug\net7.0\ref\learn-dotnet-strings04.dll
